@@ -1,0 +1,9 @@
+REPORTE DE VENTAS - TecnoStore
+------------------------------
+Venta #1 | Cliente: Ana Pérez | Fecha: 2026-06-11 | Total con IVA: $2380000.0
+Venta #4 | Cliente: Pablo Escobar | Fecha: 2026-06-11 | Total con IVA: $2856000.0
+Venta #2 | Cliente: Pablo Escobar | Fecha: 2026-06-11 | Total con IVA: $9520000.0
+Venta #3 | Cliente: Ana Pérez | Fecha: 2026-06-11 | Total con IVA: $9520000.0
+Venta #5 | Cliente: Cristiano Ronaldo | Fecha: 2026-06-11 | Total con IVA: $357000.0
+Venta #6 | Cliente: Zoraida Martinez | Fecha: 2026-06-11 | Total con IVA: $1.19E7
+Venta #45 | Cliente: profe | Fecha: 2026-06-11 | Total con IVA: $416500.0

@@ -1,0 +1,22 @@
+--- REPORTE GLOBAL TECNOSTORE ---
+Total de ventas: $3.63545E7
+
+Celulares vendidos por modelo:
+- Samsung A55: 1 unidades
+- Xiaomi Redmi Note 13: 2 unidades
+- Apple Iphone 17 pro max: 2 unidades
+- Motorola Q7: 1 unidades
+- Oppo Reno 14: 2 unidades
+- apple 23: 5 unidades
+
+Clientes con créditos pendientes:
+- Ana Pérez → $250000.0
+- Pablo Escobar → $120000.0
+
+Stock actual:
+- Samsung A55: 20 unidades
+- Xiaomi Redmi Note 13: 6 unidades
+- Apple Iphone 17 pro max: 14 unidades
+- Motorola Q7: 6 unidades
+- Oppo Reno 14: 28 unidades
+- apple 23: 0 unidades (ALERTA: bajo stock)
