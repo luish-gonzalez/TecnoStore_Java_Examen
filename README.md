@@ -20,8 +20,8 @@ reporte_global.txt
 
 La conversación con chatGPT para el desarrollo de este examen es la siguiente:
 
-https://chatgpt.com/g/g-6a1f873b51d081919341add6e2bc23f5-guia-java/c/6a1fa371-72fc-83e9-90a9-f49b2f4d9ef0
-
+[https://chatgpt.com/g/g-6a1f873b51d081919341add6e2bc23f5-guia-java/c/6a1fa371-72fc-83e9-90a9-f49b2f4d9ef0
+](https://chatgpt.com/c/6a2b5ad8-72e8-83e9-b5c2-9d1d815cccbe)
 ---
 
 # Objetivos del Examen
